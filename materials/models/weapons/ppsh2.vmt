@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+
+	"$basetexture" 	"models/weapons/ppsh2"
+	"$surfaceprop" 			"flesh"
+	"$model" 			"1"
+
+"VertexLitGeneric_DX9"
+	{
+	"$bumpmap" 	"models/weapons/ppsh2_normal"
+
+
+//****************************************************************
+
+}
+}

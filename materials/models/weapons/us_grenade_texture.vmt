@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\Weapons\US_GRENADE_TEXTURE"
+	"$model"		1
+
+}

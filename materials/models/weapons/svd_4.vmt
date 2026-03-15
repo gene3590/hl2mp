@@ -1,0 +1,32 @@
+
+"VertexLitGeneric"
+{
+	"$model" 	"1"
+	"$surfaceprop" "weapon"	
+	"$basetexture" "models/weapons/svd_4"
+
+
+
+
+//DX9:
+	"VertexLitGeneric_DX9"
+	{
+	
+
+	"$bumpmap" "models/weapons/svd_4_normal"
+	
+//	"$halflambert" 1
+//	"$nodecal" "1"
+
+
+//	"$phong" "1"
+
+//	"$phongexponent" 7
+
+
+//	"$phongboost"	"0" //overbrighten factor
+
+//	"$phongfresnelranges"	"[0.05 0.5 1]"
+		
+	}	
+}

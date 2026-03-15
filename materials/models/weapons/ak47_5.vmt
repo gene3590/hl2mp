@@ -1,0 +1,22 @@
+
+"VertexLitGeneric"
+{
+	"$model" 	"1"
+	"$surfaceprop" "weapon"	
+	"$basetexture" "models/weapons/ak47_5"
+
+
+
+
+//DX9:
+	"VertexLitGeneric_DX9"
+	{
+	
+	"$bumpmap" "models/weapons/ak47_5_normal"
+	
+
+
+
+		
+	}	
+}

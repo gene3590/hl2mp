@@ -1,0 +1,14 @@
+
+"VertexLitGeneric"
+{
+	"$model" 	"1"
+	"$surfaceprop" "glass"	
+	"$basetexture" "models/weapons/svd_lens"
+	$translucent 1
+
+
+
+	
+
+
+}

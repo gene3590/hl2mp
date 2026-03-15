@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Weapons/ioncannon_corp"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "Models/Weapons/ioncannon_normal"
+	"$selfillum" "1"
+}

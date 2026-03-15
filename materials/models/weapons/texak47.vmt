@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$model" "1"
+	"$baseTexture" 	"models\weapons\ak47_Color"
+
+}

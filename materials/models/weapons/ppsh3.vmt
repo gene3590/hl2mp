@@ -1,0 +1,33 @@
+"VertexLitGeneric"
+{
+
+	"$basetexture" 	"models/weapons/ppsh3"
+	"$surfaceprop" 			"flesh"
+	"$model" 			"1"
+	"$alphatest" "1"	
+
+"VertexLitGeneric_DX9"
+	{
+	"$bumpmap" 	"models/weapons/ppsh3_normal"
+
+
+
+//****************************************************************
+//phong:
+	"$phong" "1"
+
+
+//use below if there is no exp texture:
+"$phongexponent" "20"
+
+//	"$phongboost" ".3"
+	
+
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+
+//"$phongalbedotint" "1"
+//****************************************************************
+}
+
+}
