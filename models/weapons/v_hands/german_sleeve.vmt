@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/v_hands/german_sleeve"
+	"$nolod" 1
+}
